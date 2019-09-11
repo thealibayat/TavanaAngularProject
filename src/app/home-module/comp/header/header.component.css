@@ -1,5 +1,5 @@
 .intro-2 {
-    background: url("https://images.unsplash.com/photo-1556742111-a301076d9d18?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80") no-repeat center center;
+    background: url("/assets/header.jpeg") no-repeat center center;
     background-size: cover;
     height: 280px;
 }
