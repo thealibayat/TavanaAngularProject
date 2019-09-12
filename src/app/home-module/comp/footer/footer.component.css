@@ -7,3 +7,7 @@ img{
 h1{
     font: 25px bold black;
 }
+
+.main-back{
+    background-color: rgb(207, 206, 187);
+}
